@@ -1,4 +1,7 @@
-### Hi there 👋
+ ### Hi there, I'm zhen 👋
+ 
+[![](https://komarev.com/ghpvc/?username=coder-wangzhen&color=brightgreen)](https://github.com/antonkomarev/github-profile-views-counter)
+![](https://img.shields.io/badge/Email-hi.wangzhen%40foxmail.com-brightgreen)
 
 <!--
 **coder-wangzhen/coder-wangzhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
